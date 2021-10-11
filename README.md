@@ -4,7 +4,7 @@
 
 - 首页：
 
-  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv7kfnxvsj60gs0ykgme02.jpg" style="zoom:33%;" />
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv7kfnxvsj60gs0ykgme02.jpg" style="zoom:3%;" />
 
 - 搜索页：
 
