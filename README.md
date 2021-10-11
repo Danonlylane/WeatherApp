@@ -4,11 +4,11 @@
 
 - 首页：
 
-  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv7kfnxvsj60gs0ykgme02.jpg" style="zoom:3%;" />
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv7kfnxvsj60gs0ykgme02.jpg" width="250px" />
 
 - 搜索页：
 
-  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv7jt6d7tj60gy0yogm902.jpg" style="zoom:33%;" />
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv7jt6d7tj60gy0yogm902.jpg" width="250px" />
 
 - 页面分析：
 
@@ -19,13 +19,13 @@
 
   - 选中首页的搜索框，control拖进搜索页，选中第三个Present Modally，意思就是从下到上弹出页面。第一个shou的意思就是从右到左弹出的意思。
 
-    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv84sgvt6j60u00ve3zx02.jpg" style="zoom:25%;" />
+    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv84sgvt6j60u00ve3zx02.jpg" width="250px" />
 
   - 弹出搜索框显示全屏：
 
     - 先选中左边连接点，再将Presentation改为Full Screen
 
-    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv88vio4fj60u00x2ta002.jpg" style="zoom:25%;" />
+    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv88vio4fj60u00x2ta002.jpg" width="250px" />
 
 - 安装第三方库
 
@@ -35,7 +35,7 @@
 
   - 创建搜索页对应的class，点击new，选中Cocoa Touch Class进行创建
 
-    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guvfxd76m2j60u00lwta902.jpg" style="zoom:35%;" />
+    <img src="https://tva1.sinaimg.cn/large/008i3skNgy1guvfxd76m2j60u00lwta902.jpg" width="250px" />
 
   
 
@@ -57,7 +57,7 @@
 
 - 2. 在Info.plist里面添加如下描述，才可以使用定位服务
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv8omeyw5j611e04udgi02.jpg" style="zoom:25%;" />
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1guv8omeyw5j611e04udgi02.jpg" width="250px" />
 
 
 
